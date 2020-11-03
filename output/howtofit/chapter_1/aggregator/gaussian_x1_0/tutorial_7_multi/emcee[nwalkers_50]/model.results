@@ -1,0 +1,27 @@
+Maximum Likelihood                                                                        166.44525670
+
+Maximum Log Likelihood Model:
+
+gaussian
+    centre                                                                                50.004
+    intensity                                                                             25.090
+    sigma                                                                                 0.999
+
+
+Summary (3.0 sigma limits):
+
+gaussian
+    centre                                                                                50.00 (49.99, 50.02)
+    intensity                                                                             25.08 (24.83, 25.36)
+    sigma                                                                                 1.00 (0.99, 1.01)
+
+
+Summary (1.0 sigma limits):
+
+gaussian
+    centre                                                                                50.00 (50.00, 50.01)
+    intensity                                                                             25.08 (25.04, 25.13)
+    sigma                                                                                 1.00 (1.00, 1.00)
+
+instances
+
