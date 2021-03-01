@@ -1,0 +1,7 @@
+gaussian_0_intensity                                                  I_i
+gaussian_0_centre                                                     x_c
+gaussian_1_intensity                                                  I_i
+gaussian_1_sigma                                                      sigma_s
+gaussian_1_centre                                                     x_c
+gaussian_2_intensity                                                  I_i
+gaussian_2_sigma                                                      sigma_s

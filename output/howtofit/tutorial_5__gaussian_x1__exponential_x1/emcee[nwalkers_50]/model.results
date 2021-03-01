@@ -1,0 +1,39 @@
+Maximum Likelihood                                                                        417023098.58603984
+
+Maximum Log Likelihood Model:
+
+gaussian
+    centre                                                                                49.832
+    intensity                                                                             91.075
+    sigma                                                                                 13.630
+exponential
+    centre                                                                                -1549.056
+    intensity                                                                             0.000
+    rate                                                                                  396.771
+
+
+Summary (3.0 sigma limits):
+
+gaussian
+    centre                                                                                50.09 (46.96, 50.31)
+    intensity                                                                             91.28 (-88.62, 94.84)
+    sigma                                                                                 14.36 (-19.21, 14.71)
+exponential
+    centre                                                                                62.73 (-101508944121444646817792819859193593856.00, 130474492629109111011534487796553089024.00)
+    intensity                                                                             -15.95 (-40854902372694922425515129092714790912.00, 31783838580163898951821398852853825536.00)
+    rate                                                                                  9004660211558.29 (0.49, 55402035392843123785174351872.00)
+
+
+Summary (1.0 sigma limits):
+
+gaussian
+    centre                                                                                50.09 (50.04, 50.13)
+    intensity                                                                             91.28 (91.03, 91.63)
+    sigma                                                                                 14.36 (14.31, 14.40)
+exponential
+    centre                                                                                62.73 (-794190627.89, 1133052968451652.25)
+    intensity                                                                             -15.95 (-172227678492365.59, 159246880.91)
+    rate                                                                                  9004660211558.29 (36343399.29, 894784538846155520.00)
+
+instances
+

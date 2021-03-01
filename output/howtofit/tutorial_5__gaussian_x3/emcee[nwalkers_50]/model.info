@@ -1,0 +1,14 @@
+Total Free Parameters = 7 
+
+gaussian_0
+    centre                                                                                UniformPrior, lower_limit = 0.0, upper_limit = 100.0
+    intensity                                                                             LogUniformPrior, lower_limit = 1e-06, upper_limit = 1000000.0
+    sigma                                                                                 1.0
+gaussian_1
+    centre                                                                                UniformPrior, lower_limit = 0.0, upper_limit = 100.0
+    intensity                                                                             LogUniformPrior, lower_limit = 1e-06, upper_limit = 1000000.0
+    sigma                                                                                 UniformPrior, lower_limit = 0.0, upper_limit = 25.0
+gaussian_2
+    centre                                                                                UniformPrior, lower_limit = 0.0, upper_limit = 100.0
+    intensity                                                                             LogUniformPrior, lower_limit = 1e-06, upper_limit = 1000000.0
+    sigma                                                                                 UniformPrior, lower_limit = 0.0, upper_limit = 25.0

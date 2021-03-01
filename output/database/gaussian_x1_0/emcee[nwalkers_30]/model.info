@@ -1,0 +1,5 @@
+Total Free Parameters = 3 
+
+centre                                                                                    UniformPrior, lower_limit = 0.0, upper_limit = 100.0
+intensity                                                                                 LogUniformPrior, lower_limit = 0.01, upper_limit = 100.0
+sigma                                                                                     GaussianPrior, mean = 10.0, sigma = 5.0

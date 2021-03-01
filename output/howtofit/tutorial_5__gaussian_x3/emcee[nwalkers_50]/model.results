@@ -1,0 +1,47 @@
+Maximum Likelihood                                                                        177.93087991
+
+Maximum Log Likelihood Model:
+
+gaussian_0
+    intensity                                                                             19.982
+    centre                                                                                49.999
+gaussian_1
+    intensity                                                                             -35.314
+    sigma                                                                                 -4.817
+gaussian_2
+    centre                                                                                50.001
+    intensity                                                                             64.455
+    sigma                                                                                 9.599
+
+
+Summary (3.0 sigma limits):
+
+gaussian_0
+    intensity                                                                             20.11 (4.83, 38.81)
+    centre                                                                                50.00 (49.82, 51.50)
+gaussian_1
+    intensity                                                                             -36.13 (-285.38, 92.01)
+    sigma                                                                                 -4.82 (-7.03, 224.88)
+gaussian_2
+    centre                                                                                50.01 (46.96, 671.74)
+    intensity                                                                             63.23 (18.36, 670.88)
+    sigma                                                                                 9.71 (4.94, 921.33)
+
+
+Summary (1.0 sigma limits):
+
+gaussian_0
+    intensity                                                                             20.11 (20.00, 20.41)
+    centre                                                                                50.00 (49.99, 50.00)
+gaussian_1
+    intensity                                                                             -36.13 (-44.58, -33.63)
+    sigma                                                                                 -4.82 (-5.01, -4.66)
+gaussian_2
+    centre                                                                                50.01 (49.99, 50.02)
+    intensity                                                                             63.23 (58.85, 65.81)
+    sigma                                                                                 9.71 (9.52, 10.56)
+
+instances
+
+gaussian_0
+    sigma                                                                                 1.0

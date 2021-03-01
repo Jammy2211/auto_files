@@ -1,0 +1,9 @@
+gaussian_0_centre                                                     x_c
+gaussian_0_intensity                                                  I_i
+gaussian_0_sigma                                                      sigma_s
+gaussian_1_centre                                                     x_c
+gaussian_1_intensity                                                  I_i
+gaussian_1_sigma                                                      sigma_s
+exponential_centre                                                    x_c
+exponential_intensity                                                 I_i
+exponential_rate                                                      \lambda_r
