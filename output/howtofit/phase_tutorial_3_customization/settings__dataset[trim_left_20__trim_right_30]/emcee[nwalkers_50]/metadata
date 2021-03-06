@@ -1,0 +1,3 @@
+name=phase_tutorial_3_customization
+tag=settings__dataset[trim_left_20__trim_right_30]
+non_linear_search=emcee

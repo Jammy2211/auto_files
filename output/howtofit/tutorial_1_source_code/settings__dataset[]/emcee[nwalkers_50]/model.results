@@ -1,0 +1,25 @@
+Maximum Likelihood                                                                        -4937.72219714
+
+Maximum Log Likelihood Model:
+
+profiles
+    gaussian
+        centre                                                                            51.129
+        intensity                                                                         1.331
+        sigma                                                                             13.001
+
+ WARNING: The samples have not converged enough to compute a PDF and model errors. 
+ The model below over estimates errors. 
+
+
+
+Summary (1.0 sigma limits):
+
+profiles
+    gaussian
+        centre                                                                            51.13 (48.94, 51.27)
+        intensity                                                                         1.33 (0.77, 1.33)
+        sigma                                                                             13.00 (12.24, 13.00)
+
+instances
+
