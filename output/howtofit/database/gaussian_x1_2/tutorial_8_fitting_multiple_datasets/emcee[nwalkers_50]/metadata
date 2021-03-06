@@ -1,3 +1,3 @@
-name=tutorial_8_fitting_multiple_datasets
+name=tutorial_1_fitting_multiple_datasets
 tag=
 non_linear_search=emcee
